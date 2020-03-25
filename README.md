@@ -1,4 +1,4 @@
-# custom_slider
+# smarthome-slider
 
 A new Flutter application.
 
